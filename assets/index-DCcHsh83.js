@@ -591,4 +591,4 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
         overflow-x-hidden
         bg-slate-50
         text-slate-900
-      `,children:[(0,Q.jsx)(ym,{}),(0,Q.jsx)(Zm,{}),(0,Q.jsx)(`div`,{className:`h-20`}),(0,Q.jsxs)(`main`,{children:[(0,Q.jsx)(Xm,{}),(0,Q.jsx)(vm,{}),(0,Q.jsx)(th,{}),(0,Q.jsx)(Qm,{}),(0,Q.jsx)(Nm,{}),(0,Q.jsx)(Tm,{}),(0,Q.jsx)(km,{})]}),(0,Q.jsx)(Pm,{})]})}function rh(){return(0,Q.jsx)(qt,{children:(0,Q.jsx)(Gt,{path:`/`,element:(0,Q.jsx)(nh,{})})})}(0,Lp.createRoot)(document.getElementById(`root`)).render((0,Q.jsx)(w.StrictMode,{children:(0,Q.jsx)(Fn,{children:(0,Q.jsx)(rh,{})})}));
+      `,children:[(0,Q.jsx)(ym,{}),(0,Q.jsx)(Zm,{}),(0,Q.jsx)(`div`,{className:`h-20`}),(0,Q.jsxs)(`main`,{children:[(0,Q.jsx)(Xm,{}),(0,Q.jsx)(vm,{}),(0,Q.jsx)(th,{}),(0,Q.jsx)(Qm,{}),(0,Q.jsx)(Nm,{}),(0,Q.jsx)(Tm,{}),(0,Q.jsx)(km,{})]}),(0,Q.jsx)(Pm,{})]})}function rh(){return(0,Q.jsx)(qt,{children:(0,Q.jsx)(Gt,{path:`/`,element:(0,Q.jsx)(nh,{})})})}(0,Lp.createRoot)(document.getElementById(`root`)).render((0,Q.jsx)(w.StrictMode,{children:(0,Q.jsx)(Fn,{basename:`/Issouf-portfolio`,children:(0,Q.jsx)(rh,{})})}));
